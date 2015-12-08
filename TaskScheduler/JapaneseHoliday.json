@@ -1,0 +1,130 @@
+﻿[
+    {
+        "type": "fixed",
+        "fixed": {
+            "month": 1,
+            "day": 1
+        }
+    },
+    {
+        "type": "fluctuation",
+        "fluctuation": {
+            "month": 1,
+            "weekOfMonth": 2,
+            "dayOfWeek": 1
+        }
+    },
+    {
+        "type": "fixed",
+        "fixed": {
+            "month": 2,
+            "day": 11
+        }
+    },
+    {
+        "type": "vernalEquinoxDay"
+    },
+    {
+        "type": "fixed",
+        "fixed": {
+            "month": 4,
+            "day": 29
+        }
+    },
+    {
+        "type": "fixed",
+        "fixed": {
+            "month": 5,
+            "day": 3
+        }
+    },
+    {
+        "type": "fixed",
+        "fixed": {
+            "month": 5,
+            "day": 4
+        },
+        "startYear": 2007
+    },
+    {
+        "type": "fixed",
+        "fixed": {
+            "month": 5,
+            "day": 5
+        }
+    },
+    {
+        "type": "fixed",
+        "fixed": {
+            "month": 7,
+            "day": 20
+        },
+        "endYear": 2002
+    },
+    {
+        "type": "fluctuation",
+        "fluctuation": {
+            "month": 7,
+            "weekOfMonth": 3,
+            "dayOfWeek": 1
+        },
+        "startYear": 2003
+    },
+    {
+        "type": "fixed",
+        "fixed": {
+            "month": 8,
+            "day": 11
+        },
+        "startYear": 2016
+    },
+    {
+        "type": "fixed",
+        "fixed": {
+            "month": 9,
+            "day": 15
+        },
+        "endYear": 2002
+    },
+    {
+        "type": "fluctuation",
+        "fluctuation": {
+            "month": 9,
+            "weekOfMonth": 3,
+            "dayOfWeek": 1
+        },
+        "startYear": 2003
+    },
+    {
+        "type": "autumnalEquinoxDay"
+    },
+    {
+        "type": "fluctuation",
+        "fluctuation": {
+            "month": 10,
+            "weekOfMonth": 2,
+            "dayOfWeek": 1
+        }
+    },
+    {
+        "type": "fixed",
+        "fixed": {
+            "month": 11,
+            "day": 3
+        }
+    },
+    {
+        "type": "fixed",
+        "fixed": {
+            "month": 11,
+            "day": 23
+        }
+    },
+    {
+        "type": "fixed",
+        "fixed": {
+            "month": 12,
+            "day": 23
+        }
+    }
+]
